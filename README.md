@@ -1,2 +1,2 @@
 # [2025 Countdown](https://tinyurl.com/2025-Countdown)
-## A countdown to 2025 I made in Scratch and packaged to HTML using Turbowarp.
+## This is a countdown to 2025 that I made in Scratch and packaged to HTML using Turbowarp. It should work across every timezone, so feel free to use this if you want.
